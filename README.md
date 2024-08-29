@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MS SQL Server Advance and Data structure and algorithm
 - 👯 I’m looking to collaborate on HRM System development
 - 🤔 I’m looking for help with another developer
-- 💬 Dynamic and results-driven Full Stack Developer with [X] years of experience designing, developing, and implementing complex web applications using Angular and .NET technologies. Adept at working across the entire development lifecycle, from initial requirements gathering to deployment and maintenance. Committed to leveraging a strong front-end and back-end development foundation to create scalable, efficient, and user-centric solutions. Seeking to contribute my expertise to [Company Name] where I can drive innovation, solve complex technical challenges, and contribute to high-impact projects in a collaborative environment.
+- 💬 Dynamic and results-driven Full Stack Developer with 1.5 year of experience designing, developing, and implementing complex web applications using Angular and .NET technologies. Adept at working across the entire development lifecycle, from initial requirements gathering to deployment and maintenance. Committed to leveraging a strong front-end and back-end development foundation to create scalable, efficient, and user-centric solutions. Seeking to contribute my expertise to [Company Name] where I can drive innovation, solve complex technical challenges, and contribute to high-impact projects in a collaborative environment.
 - 📫 How to reach me: +8801984913698 or mdfirozahmed698@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
