@@ -1,29 +1,19 @@
-## Hi there 👋
+👋 Hi, I’m Muhammad Firoz Ali
 
-- 🔭 I’m currently working on ASP.NET core web API and Angular  CRM System Development
-- 🌱 I’m currently learning MS SQL Server Advance and Data structure and algorithm
-- 👯 I’m looking to collaborate on HRM System development
-- 🤔 I’m looking for help with another developer
-- 💬 Dynamic and results-driven Full Stack Developer with 1.5 year of experience designing, developing, and implementing complex web applications using Angular and .NET technologies. Adept at working across the entire development lifecycle, from initial requirements gathering to deployment and maintenance. Committed to leveraging a strong front-end and back-end development foundation to create scalable, efficient, and user-centric solutions. Seeking to contribute my expertise to [Company Name] where I can drive innovation, solve complex technical challenges, and contribute to high-impact projects in a collaborative environment.
-- 📫 How to reach me: +8801984913698 or mdfirozahmed698@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m a passionate Full Stack .NET Developer with 1.5+ years of hands-on experience in designing, developing, and maintaining scalable, database-driven applications. I specialize in ASP.NET Core MVC, Web API, Angular, and WPF, with a strong focus on clean architecture, performance, and maintainable code.
 
+Currently, I’m working as a Junior .NET Developer at PerkyRabbit, where I contribute to real-world enterprise applications such as RecruitHub, Web Portals, and Inventory Management Systems. My work involves implementing role-based authorization, CRUD operations, pagination, validation, activity logs, menu permissions, and file/CSV uploads, along with UI optimization and deployment support.
 
-Proficient in Angular Framework: Extensive experience in developing responsive and dynamic single-page applications (SPAs) using Angular, with a strong understanding of Angular CLI, RxJS, and NgRx for state management.
+I have also built several personal and practice projects including Online Shop systems, Task Management Systems, Social Media Web Apps, Portfolio Websites, and Templates, where I experimented with different architectures, authentication systems, and scalable designs.
 
-Advanced .NET Skills: Deep expertise in .NET Core and .NET Framework, including ASP.NET Core for building robust web APIs, Entity Framework for database operations, and MVC architecture for scalable applications.
+In addition, I have experience working on desktop applications like Computer-Aided Dispatch (CAD) systems using WPF, handling emergency workflows, incident management, and order processing modules.
 
-Full Stack Development: Proven ability to design and implement end-to-end solutions, seamlessly integrating front-end Angular applications with back-end .NET services to deliver cohesive and high-performance systems.
+I enjoy learning new technologies, solving problems, and continuously improving my skills. I’m always eager to collaborate, contribute to meaningful projects, and grow as a professional developer.
 
-UI/UX Design: Adept at applying modern web design principles and best practices to create intuitive and visually appealing user interfaces, ensuring a positive user experience and meeting design specifications.
+🛠️ Tech Stack
 
-API Development and Integration: Skilled in creating and consuming RESTful APIs and SOAP web services, with experience in securing and optimizing API endpoints for performance and reliability.
-
-Database Management: Strong knowledge of SQL Server and other relational databases, with experience in designing schemas, writing complex queries, and optimizing database performance.
-
-Version Control and Collaboration: Proficient in using version control systems such as Git, with experience in collaborative workflows and code reviews to maintain code quality and consistency.
-
-Agile Methodologies: Experience working in Agile environments, including Scrum and Kanban, with a track record of delivering high-quality software on time through iterative development and continuous improvement.
-
-Problem-Solving Skills: Strong analytical and problem-solving abilities, capable of troubleshooting complex issues and implementing effective solutions to enhance application performance and functionality.
+Backend: C#, .NET Core MVC, Web API, Entity Framework Core, Dapper
+Frontend: Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap
+Desktop: WPF, XAML
+Database: SQL Server, MySQL, MariaDB
+Tools & Concepts: LINQ, Clean Architecture, Role & Permission Management, REST APIs, Git
